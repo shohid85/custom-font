@@ -1,0 +1,24 @@
+*{
+    border:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:darkturquoise;
+}
+h1{
+    font-family: 'Kalpurush', sans-serif;
+    text-align:center;
+}
+img{
+    width:80%;
+}
+p1{
+    font-family: 'Kalpurush', sans-serif;
+}
+p2{
+    font-family: 'CharukolaUltraLight', sans-serif;
+}
+p{
+    font-family: 'Kalpurush', sans-serif;
+}
